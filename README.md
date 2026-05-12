@@ -106,4 +106,3 @@ My goal is to create interfaces that not only look modern, but also feel intuiti
 ### Thanks for visiting 👋
 
 </div>
-```
