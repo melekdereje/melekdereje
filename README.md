@@ -1,6 +1,6 @@
 <div align="center">
 
-# Melek Dereje
+# AbeMelek Dereje
 
 ### Frontend Developer & UI/UX Designer
 
