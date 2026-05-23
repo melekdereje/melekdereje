@@ -79,20 +79,6 @@ Creative frontend UI experiments, landing pages, and interactive components.
 
 ---
 
-# GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=melekdereje&theme=tokyonight&hide_border=true&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=melekdereje&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=melekdereje&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
 # Design Philosophy
 
 I believe great digital experiences come from the balance between clean design, thoughtful interactions, and functional development.
