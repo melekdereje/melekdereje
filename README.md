@@ -58,11 +58,11 @@ Currently focused on:
 
 # Featured Projects
 
-### ✨ Portfolio Website
-Modern animated portfolio website with a minimal dark UI and smooth interactions.
+### 🌇 Cinematic Harar Tourism
+Immersive landing page showcasing the ancient city of Harar
 
-### 🎮 Amharic Imposter Game
-A localized social deduction game experience designed for Amharic speakers.
+### 📚 Library System
+Full library management system for tracking books & users
 
 ### 🖥 UI & Landing Page Collection
 Creative frontend UI experiments, landing pages, and interactive components.
@@ -79,16 +79,14 @@ Creative frontend UI experiments, landing pages, and interactive components.
 
 ---
 
-# Design Philosophy
+# 🎨 Design Philosophy
 
-I believe great digital experiences come from the balance between clean design, thoughtful interactions, and functional development.
-
-My goal is to create interfaces that not only look modern, but also feel intuitive and enjoyable to use.
+"I believe great digital experiences come from the balance between clean design, thoughtful interactions, and functional development. My goal is to create interfaces that not only look modern, but also feel intuitive and enjoyable to use."
 
 ---
 
 <div align="center">
-
-### Thanks for visiting 👋
-
+Open to freelance projects, collaborations, and opportunities 🤝
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
 </div>
