@@ -4,6 +4,16 @@
 
 Building modern, interactive, and visually polished web experiences.
 
+  <a href="https://abemelek-portfolio.vercel.app/#home" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+ 
+  <a href="https://www.behance.net/mlkdrj" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+</div>
+
 <!-- <p align="center">
   <a href="https://instagram.com/melekdereje">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -88,7 +98,6 @@ Creative frontend UI experiments, landing pages, and interactive components.
 Open to freelance projects, collaborations, and opportunities 🤝
  <br/>
  <br/>
-
   📬 Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/abemelek-dereje-370112412/" target="_blank">
