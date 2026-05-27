@@ -1,12 +1,10 @@
 <div align="center">
 
-# Abemelek Dereje
-
-### Frontend Developer & UI/UX Designer
+### Abemelek Dereje - Frontend Developer & UI/UX Designer
 
 Building modern, interactive, and visually polished web experiences.
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://instagram.com/melekdereje">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -19,7 +17,7 @@ Building modern, interactive, and visually polished web experiences.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-</p>
+</p> -->
 
 </div>
 
@@ -88,6 +86,27 @@ Creative frontend UI experiments, landing pages, and interactive components.
 
 <div align="center">
 Open to freelance projects, collaborations, and opportunities 🤝
+ <br/>
+ <br/>
+
+  📬 Let's Connect!
+<div align="center">
+  <a href="https://www.linkedin.com/in/abemelek-dereje-370112412/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://abemelek-portfolio.vercel.app/#home" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abemelekdereje@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.behance.net/mlkdrj" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+</div>
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
 </div>
