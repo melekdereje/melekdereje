@@ -1,33 +1,28 @@
 <div align="center">
 
-### Abemelek Dereje - Frontend Developer & UI/UX Designer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Building+for+Ethiopia+%26+the+World+%F0%9F%8C%8D;React+%7C+Next.js+%7C+TypeScript+%7C+Figma;Information+Systems+%40+Haramaya+University+%F0%9F%8E%93" alt="Typing SVG" />
+</a>
 
-Building modern, interactive, and visually polished web experiences.
+<br/><br/>
 
-  <a href="https://abemelek-portfolio.vercel.app/#home" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
- 
-  <a href="https://www.behance.net/mlkdrj" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-  </a>
-</div>
-
-<!-- <p align="center">
-  <a href="https://instagram.com/melekdereje">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <a href="https://behance.net/MelekDereje">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/abemelek-dereje-370112412/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abemelek-dereje-370112412/)
+&nbsp;
+<a href="https://instagram.com/melekdereje">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;
-</p> -->
+<a href="https://behance.net/MelekDereje">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/melekdereje">
+  <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=melekdereje&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -102,16 +97,13 @@ Creative frontend UI experiments, landing pages, and interactive components.
 
 ---
 
-# 🎨 Design Philosophy
+## 🎨 Design Philosophy
 
-"I believe great digital experiences come from the balance between clean design, thoughtful interactions, and functional development. My goal is to create interfaces that not only look modern, but also feel intuitive and enjoyable to use."
+> _"I believe great digital experiences come from the balance between clean design, thoughtful interactions, and functional development. My goal is to create interfaces that not only look modern, but also feel intuitive and enjoyable to use."_
 
 ---
 
 <div align="center">
-Open to freelance projects, collaborations, and opportunities 🤝
- <br/>
- <br/>
   📬 Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/abemelek-dereje-370112412/" target="_blank">
