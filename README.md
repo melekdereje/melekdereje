@@ -59,7 +59,7 @@ const abemelek = {
 
   philosophy: "Great design is invisible. Great code is honest.",
 };
-
+```
 ---
 
 # Tech Stack
