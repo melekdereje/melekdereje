@@ -20,9 +20,9 @@
   <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
+<!-- <br/>
 
-<img src="https://komarev.com/ghpvc/?username=melekdereje&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=melekdereje&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" /> -->
 
 </div>
 
