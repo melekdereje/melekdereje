@@ -74,16 +74,14 @@ const abemelek = {
 
 ---
 
-# Featured Projects
+## 🌟 Featured Projects
 
-### 🌇 Cinematic Harar Tourism
-Immersive landing page showcasing the ancient city of Harar
+| Project             | Description                              | Tech                 |
+| ------------------- | ---------------------------------------- | -------------------- |
+| 🌇 Harar Tourism    | Interactive tourism experience for Harar | React, Tailwind      |
+| 📚 LibraryHub       | Modern library management system         | React, Next.js       |
+| 🎨 UI Showcase      | Collection of UI experiments             | React, Framer Motion |
 
-### 📚 Library System
-Full library management system for tracking books & users
-
-### 🖥 UI & Landing Page Collection
-Creative frontend UI experiments, landing pages, and interactive components.
 
 ---
 
