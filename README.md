@@ -33,18 +33,32 @@ Building modern, interactive, and visually polished web experiences.
 
 ---
 
-# About Me
+## 🧠 About Me
 
-Frontend developer and UI/UX designer passionate about creating clean, modern, and engaging digital experiences.
+```typescript
+const abemelek = {
+  name:        "Abemelek Dereje",
+  alias:       "Melek",
+  university:  "Haramaya University, Ethiopia 🇪🇹",
+  major:       "Information Systems",
+  roles:       ["Frontend Developer", "UI/UX Designer"],
+  location:    "Harar, Ethiopia 🌍",
 
-I enjoy blending design and development to build interfaces that feel smooth, interactive, and visually balanced.
+  currentlyBuilding: [
+    "🏛  Library Management System (PHP)",
+    "🌇  Cinematic Harar Tourism Landing Page",
+    "🎨  React Portfolio Designs for Clients",
+  ],
 
-Currently focused on:
-- Modern frontend development
-- UI/UX design systems
-- Interactive animations
-- Creative web experiences
-- Building polished portfolio and landing page projects
+  obsessedWith: [
+    "Framer Motion animations",
+    "Dark UI design systems",
+    "Creative web experiences",
+    "Ethiopian digital experiences",
+  ],
+
+  philosophy: "Great design is invisible. Great code is honest.",
+};
 
 ---
 
