@@ -85,13 +85,13 @@ const abemelek = {
 
 ---
 
-# Currently Exploring
+## 🚀 Current Mission
 
-- Advanced React patterns
-- Framer Motion animations
-- UI architecture
-- Better user experience systems
-- Creative frontend development
+- Building modern web experiences with React & Next.js
+- Improving UI/UX design skills through real client projects
+- Creating digital products inspired by Ethiopian culture
+- Learning scalable frontend architecture
+- Contributing to open-source projects
 
 ---
 
