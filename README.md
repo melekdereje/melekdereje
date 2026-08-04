@@ -59,7 +59,7 @@ const abemelek = {
 
 # Tech Stack
 
-<div align="center">
+<!-- <div align="center">
 
 ![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -70,7 +70,13 @@ const abemelek = {
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
+</div> -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,express,figma,git,js,mongodb,nodejs,postman,ts,nextjs,tailwind" />
+  </a>
+</p>
 
 ---
 
