@@ -39,19 +39,6 @@ const abemelek = {
   roles:       ["Frontend Developer", "UI/UX Designer"],
   location:    "Harar, Ethiopia 🌍",
 
-  currentlyBuilding: [
-    "🏛  Library Management System (PHP)",
-    "🌇  Cinematic Harar Tourism Landing Page",
-    "🎨  React Portfolio Designs for Clients",
-  ],
-
-  obsessedWith: [
-    "Framer Motion animations",
-    "Dark UI design systems",
-    "Creative web experiences",
-    "Ethiopian digital experiences",
-  ],
-
   philosophy: "Great design is invisible. Great code is honest.",
 };
 ```
